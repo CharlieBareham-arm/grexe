@@ -28,5 +28,8 @@ Repository = "https://github.com/me/spam.git"
 grexe-editor = "grexe.editor:main"
 grexe-edit-rebase-item = "grexe.edit_rebase_item:main"
 
+[tool.setuptools]
+include-package-data = true
+
 [tool.setuptools.packages.find]
 where = ["src"]

@@ -64,5 +64,5 @@ Set the `GIT_SEQUENCE_EDITOR` environment variable or the `sequence.editor` sett
 
 # Dependencies
 
-- Python 3.13.1
+- Python 3.12
 - git

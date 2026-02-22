@@ -50,8 +50,12 @@ useful if you have a lot of files.
 
 # Setup
 
-1. `pip install .` or `pip install -e .`
-2. `pre-commit install`
+To install globally: `pipx install .`.
+
+For a developer install
+1. Create and activate a virtual environment.
+2. `pip install -e .`
+3. `pre-commit install`
 
 # Usage
 
